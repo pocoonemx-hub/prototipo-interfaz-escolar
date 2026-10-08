@@ -4,7 +4,7 @@
 Proyecto enfocado en el diseño de una interfaz centrada en el usuario para la gestión de tareas y horarios escolares en dispositivos móviles.
 
 ## Integrantes del Equipo
-* Tu Nombre Completo
+Ali Abidem
 
 ## Objetivos Generales
 * Diseñar una interfaz limpia, accesible e intuitiva para estudiantes.
